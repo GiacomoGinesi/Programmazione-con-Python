@@ -1,4 +1,4 @@
-#Software gestionale per negozio di prodotti vegani
+# Software gestionale per negozio di prodotti vegani
 
 
 BioMarket s.a.s ti assume per sviluppare un piccolo software gestionale per la loro nuova bottega in Via Tan 6. Il software deve avere le seguenti funzionalità:
@@ -9,10 +9,10 @@ Mostrare i profitti lordi e netti.
 Mostrare un menu di aiuto con tutti i comandi disponibili.
 
 
-#Il software è testuale, quindi utilizzabile da riga di comando.
+Il software è testuale, quindi utilizzabile da riga di comando.
 
 
-#NOTE
+# NOTE
 Cerca di scrivere del buon codice organizzando le varie funzionalità in apposite funzioni.
 Prima di scrivere il codice, pensa a quali sono le migliori strutture dati da utilizzare: liste, tuple, dizionari, o combinazioni di esse come liste di dizionari.
 Il programma deve essere persistente, cioè le informazioni inserite dall'utente devono essere mantenute tra diverse esecuzioni del programma, per fare questo puoi utilizzare un file di testo scegliendo tu che tipo di codifica utilizzare per le informazioni.
@@ -23,7 +23,7 @@ Il profitto lordo è il totale delle vendite, cioè tutto ciò che i clienti han
 
 
 
-#ESEMPIO DI INTERAZIONE CON IL PROGRAMMA (in grassetto l'input dell'utente)
+ESEMPIO DI INTERAZIONE CON IL PROGRAMMA (in grassetto l'input dell'utente)
 
 
 Inserisci un comando: aiuto
